@@ -16,13 +16,13 @@ My long-term goal is to become a software entrepreneur and build SaaS products f
   LinkedIn: www.linkedin.com/in/cauan-moronhe-lopes
   Email: cauantechdev@gmail.com
 
-# Technologies and Tools
-- Java
-- Git & GitHub
-- Object-Oriented Programming (OOP)
-- REST APIs
-- VS Code
-- IntelliJ IDEA
+## Technologies and Tools 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Current Goals
 - Strengthen backend development skills with Java
