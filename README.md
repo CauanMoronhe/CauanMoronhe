@@ -22,6 +22,8 @@ My long-term goal is to build scalable SaaS products and pursue a career in soft
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CauanMoronhe&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CauanMoronhe&show_icons=true&theme=tokyonight&bg_color=00000000)
+
 ## Technologies 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
