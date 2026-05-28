@@ -24,7 +24,7 @@ My long-term goal is to become a software entrepreneur and build SaaS products f
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 
-# Current Goals
+## Current Goals
 - Strengthen backend development skills with Java
 - Build real-world projects for portfolio
 - Learn frontend development in the future
