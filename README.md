@@ -14,5 +14,20 @@ My long-term goal is to become a software entrepreneur and build SaaS products f
 👯 I’m looking to collaborate on beginner-friendly backend projects and open source initiatives
 📫 How to reach me:
 - LinkedIn: www.linkedin.com/in/cauan-moronhe-lopes
-- GitHub: github.com/CauanMoronhe
 - Email: cauantechdev@gmail.com
+
+# Technologies and Tools
+- Java
+- Git & GitHub
+- Object-Oriented Programming (OOP)
+- REST APIs
+- VS Code
+- IntelliJ IDEA
+
+# Current Goals
+- Strengthen backend development skills with Java
+- Build real-world projects for portfolio
+- Learn frontend development in the future
+- Start developing SaaS products
+
+Thanks for visiting my profile 🚀
