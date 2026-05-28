@@ -20,7 +20,7 @@ My long-term goal is to build scalable SaaS products and pursue a career in soft
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CauanMoronhe&layout=compact&theme=tokyonight&bg_color=00000000)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CauanMoronhe&theme=tokyonight&bg_color=00000000)
+![GitHub Streak](https://streak-stats.demolab.com?user=CauanMoronhe&theme=tokyonight&background=00000000&border=30363d)
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CauanMoronhe&show_icons=true&theme=tokyonight&bg_color=00000000)
 
