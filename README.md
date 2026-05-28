@@ -13,8 +13,9 @@ My long-term goal is to become a software entrepreneur and build SaaS products f
 - 🌱 I’m currently learning Java, Object-Oriented Programming, APIs, Collections, and Backend Development.
 - 👯 I’m looking to collaborate on beginner-friendly backend projects and open source initiatives.
 - 📫 How to reach me:
-  LinkedIn: www.linkedin.com/in/cauan-moronhe-lopes
-  Email: cauantechdev@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-moronhe-lopes) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauantechdev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/techdev_cauan)
 
 ## Technologies and Tools 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
