@@ -4,6 +4,8 @@
 
 Computer Science student at PUC Minas focused on Java Backend Development.
 
+Based in Poços de Caldas, Minas Gerais, Brazil 🇧🇷
+
 Passionate about building backend applications and currently studying Java through Alura's Backend Java career path.
 
 I am focused on improving my skills in Object-Oriented Programming, APIs, Collections, programming logic, and software development fundamentals.
