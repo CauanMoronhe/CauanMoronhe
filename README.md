@@ -1,5 +1,5 @@
-# Hello there, i'm Cauan! 👋
-## About Me
+# Hello there! 👋
+About Me
 
 I'm Cauan Moronhe Lopes, a Computer Science student focused on Backend Development with Java.
 
