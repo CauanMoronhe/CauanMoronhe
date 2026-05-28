@@ -10,11 +10,8 @@ I also have experience in technical support and IT assistance, working with remo
 My long-term goal is to become a software entrepreneur and build SaaS products for companies.
 
 - I’m currently working on improving my Java backend skills and building practical projects.
-
 - I’m currently learning Java, Object-Oriented Programming, APIs, Collections, and Backend Development.
-
 - I’m looking to collaborate on beginner-friendly backend projects and open source initiatives.
-
 - How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-moronhe-lopes) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauantechdev@gmail.com)
