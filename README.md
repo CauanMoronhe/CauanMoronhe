@@ -18,12 +18,6 @@ My long-term goal is to build scalable SaaS products and pursue a career in soft
 - Learning Java, Object-Oriented Programming, APIs, Collections, and Backend Development.
 - I’m looking to collaborate on beginner-friendly backend projects and open source initiatives.
 
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CauanMoronhe&show_icons=true&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CauanMoronhe&show_icons=true&theme=tokyonight)
-
 ## Technologies 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
